@@ -1,26 +1,15 @@
-# Railway Operation Simulator Template Map 
-A brief description of what the map represents, including era, whether the route is fictional and the level of difficulty.
+# Waterloo Suuburban, South West London 
+This route is based on some of the local suburban services from Waterloo. This route starts at Barnes and runs as far West as Windsor.
 
-|[Edit this README and Remove this table] This repository should contain ultimately:|
-|:-------|
-| The name of your repository should follow convention of `<2 letter country code>-<name of route>`, e.g. `US-NorthEastCorridor`.|
-| An image of the route in BMP format within the `Images` folder.|
-| The completed railway `.rly` file or if in development `.dev` file in the `Railway` folder.|
-| A complete timetable within the `Program_Timetables` folder.|
-| A session for the relevant timetable with preferred directions set.|
-| Documentation describing background to the route and operations tips within the `Documentation` folder. This can include any maps/useful information as well. The recommended format for the documentation is PDF to be universally accessible.|
-| Optionally a `Signal.hnd` file as a hint to what side signals are traditionally placed on the route.|
-| The table below, image of the state of the map, and the data sources should be updated regularly. In the table the statuses of not completed, completed and needs verification are represented by the icons:<br><img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"><img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24"><img src="https://image.flaticon.com/icons/svg/1828/1828833.svg" height="24">|
-
-[Image of Current State of Map](Images/image_name.bmp)
+[Track Diagram](Images/WaterlooSuburban.bmp)
 
 ## Current Status
 
 | Stage         | Status        |
 | ------------- |:-------------:|
-| Track Plan     | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24"> |
-| Signalling      | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24">      |
-| Naming | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24">      |
+| Track Plan     | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
+| Signalling      | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24">     |
+| Naming | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24">      |
 | Speed Limits | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24"> |
 | Distances | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24"> |
 | Timetable | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24"> |
@@ -29,8 +18,7 @@ A brief description of what the map represents, including era, whether the route
 
 ## Data Sources
 
-- A List of links pointing to various sources
-- For example:
-- [Carto Metro Paris Metro Map](http://carto.metro.free.fr/cartes/metro-paris/)
+* Track and signal location from [TRAKSY](https://traksy.uk/live)
+* [Sectional Appendices](https://www.networkrail.co.uk/industry-and-commercial/information-for-operators/national-electronic-sectional-appendix/)
 
 Status icons by Freepik, pixelmeetup, Pixel Perfect on FlatIcon.com *do not remove this line*.
