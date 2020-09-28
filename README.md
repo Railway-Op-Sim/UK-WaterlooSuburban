@@ -1,7 +1,7 @@
 # Waterloo Suburban, South West London 
 This route is based on some of the local suburban services from Waterloo. This route starts at Barnes and runs as far West as Windsor.
 
-[Track Diagram](https://raw.githubusercontent.com/Railway-Op-Sim/UK-WaterlooSuburban/master/Images/WaterlooSuburban.bmp)
+![Track Diagram](https://raw.githubusercontent.com/Railway-Op-Sim/UK-WaterlooSuburban/master/Images/WaterlooSuburban.bmp)
 
 ## Current Status
 
