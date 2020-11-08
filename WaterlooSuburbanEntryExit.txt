@@ -1,0 +1,13 @@
+Entry:
+Clapham FAST	105-27 104-27
+Clapham SLOW 	105-26 104-26
+Wimbledon	68-35 67-35
+Acton		67-11 66-11
+Reading		N2-9 N1-9
+
+Exit:
+Clapham FAST	105-25
+Clapham SLOW	105-24
+Wimbledon	68-34
+Acton		67-10
+Reading		N2-10
