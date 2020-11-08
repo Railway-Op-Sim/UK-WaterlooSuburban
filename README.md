@@ -13,7 +13,7 @@ This route is based on some of the local suburban services from Waterloo. This r
 | Speed Limits | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24">  |
 | Distances | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24">  |
 | Timetable | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
-| Documentation | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24"> |
+| Documentation | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
 
 
 ## Data Sources
@@ -21,4 +21,4 @@ This route is based on some of the local suburban services from Waterloo. This r
 * Track and signal location from [TRAKSY](https://traksy.uk/live)
 * [Sectional Appendices](https://www.networkrail.co.uk/industry-and-commercial/information-for-operators/national-electronic-sectional-appendix/)
 
-Status icons by Freepik, pixelmeetup, Pixel Perfect on FlatIcon.com *do not remove this line*.
+Status icons by Freepik, pixelmeetup, Pixel Perfect on FlatIcon.com.
